@@ -1,0 +1,22 @@
+/* Alguns estilos proprios para mina aplicação */
+
+body{
+    background-image: radial-gradient(circle, ghostwhite, dodgerblue);
+}
+
+#login_container {
+    padding-top: 10%;
+}
+
+#button {
+    border-radius: 20%;
+    height: 5%;
+    width: 25%;
+}
+
+.titulo-erro {
+    font-weight: bolder;
+    text-align: left;
+    text-decoration-color: black;
+}
+
